@@ -18,6 +18,6 @@ spec:
     spec:
       containers:
       - name: nodejs
-        image: naresh240/node-web-app:v1
+        image: cloudtechmasters/node-web-app:v1
         ports:
         - containerPort: 8080

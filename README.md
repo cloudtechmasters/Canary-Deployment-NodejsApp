@@ -62,6 +62,8 @@ Push Docker image to docker hub with tag v2:
     kubectl apply -f ingress.yml
 # Check Load Balancer of ALB ingress controller attached to ingress or not
     kubectl get ingress
+# Two records creates automatically in Route53 because of External DNS
+![image](https://user-images.githubusercontent.com/68885738/95646444-31408580-0ae6-11eb-84c6-5181a322dd45.png)
 # Go to UI and check our external dns, which showing output application with HTTPS
   https://nodejs.cloudtechmasters.ml/
   

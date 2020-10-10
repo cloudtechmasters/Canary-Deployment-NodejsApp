@@ -9,9 +9,9 @@
     - Create Hosted Zone with our Domain Name
     - External DNS Setup
 # EKS Cluster Setup:
-  [EKS Cluster Setup](https://github.com/cloudtechmasters/eks-cluster-setup/blob/main/README.md)
+  [EKS Cluster Setup](https://github.com/cloudtechmasters/eks-cluster-setup.git)
 # ALB Ingress Controller Setup:
-  [ALB Ingress Controller](https://github.com/cloudtechmasters/ALB-Ingress-Controller-Setup/blob/main/README.md)
+  [ALB Ingress Controller](https://github.com/cloudtechmasters/ALB-Ingress-Controller-Setup.git)
 # Istio Setup:
   [Istio](https://github.com/cloudtechmasters/Istio-Installation.git)
 # Create Hosted Zone with our Domain Name

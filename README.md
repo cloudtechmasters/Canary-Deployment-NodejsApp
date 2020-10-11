@@ -19,7 +19,7 @@
 # Request a Cerficate using Certificate Manager
 ![image](https://user-images.githubusercontent.com/58024415/94990930-301ad000-059d-11eb-9c5d-8ee47d494f82.png)
 # External DNS Setup:
-  [External DNS](https://github.com/Naresh240/External-DNS-Setup-Kubernetes/tree/main)
+  [External DNS](https://github.com/cloudtechmasters/External-DNS-Setup-Kubernetes.git)
 # Install GIT:
     yum install git -y
 # Install Docker:
